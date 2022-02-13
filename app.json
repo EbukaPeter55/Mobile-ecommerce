@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "ecommercewears3",
+    "slug": "ecommercewears3",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "ecommercewears3"
+}
